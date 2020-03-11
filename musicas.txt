@@ -3,4 +3,9 @@ FRIENDS
 Birds
 IDGAF
 Rainism
+<<<<<<< HEAD
 somebody to love
+=======
+somebody to love
+leave out all the rest
+>>>>>>> 9b95bf1de87b82924c6fc9c6d61cbf7df7b7aa12
